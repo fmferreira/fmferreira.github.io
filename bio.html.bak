@@ -25,7 +25,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li> <a href="about.html">Bio</a> </li>
+            <li> <a href="bio.html">Bio</a> </li>
             <li> <a href="services.html">Papers</a> </li>
             <li> <a href="contact.html">Models</a> </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach
@@ -68,7 +68,7 @@
           <h1 class="page-header">About <small>Subheading</small> </h1>
           <ol class="breadcrumb">
             <li><a href="index.html">Home</a> </li>
-            <li class="active">About</li>
+            <li class="active">Bio</li>
           </ol>
         </div>
       </div>
@@ -79,7 +79,7 @@
 
             alt=""> </div>
         <div class="col-md-6">
-          <h2>About Modern Business</h2>
+          <h2>Bio</h2>
           <p>Filipe M. Ferreira received the PhD degree in electrical
             engineering from the department of Electrical and Computer
             Engineering, University of Coimbra, Portugal in 2014 for his work on
@@ -98,157 +98,7 @@
         </div>
       </div>
       <!-- /.row -->
-      <!-- Team Members -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="page-header">Our Team</h2>
-        </div>
-        <div class="col-md-4 text-center">
-          <div class="thumbnail"> <img class="img-responsive" src="https://placehold.it/750x450"
 
-              alt="">
-            <div class="caption">
-              <h3>John Smith<br>
-                <small>Job Title</small> </h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste
-                saepe et quisquam nesciunt maxime.</p>
-              <ul class="list-inline">
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 text-center">
-          <div class="thumbnail"> <img class="img-responsive" src="https://placehold.it/750x450"
-
-              alt="">
-            <div class="caption">
-              <h3>John Smith<br>
-                <small>Job Title</small> </h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste
-                saepe et quisquam nesciunt maxime.</p>
-              <ul class="list-inline">
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 text-center">
-          <div class="thumbnail"> <img class="img-responsive" src="https://placehold.it/750x450"
-
-              alt="">
-            <div class="caption">
-              <h3>John Smith<br>
-                <small>Job Title</small> </h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste
-                saepe et quisquam nesciunt maxime.</p>
-              <ul class="list-inline">
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 text-center">
-          <div class="thumbnail"> <img class="img-responsive" src="https://placehold.it/750x450"
-
-              alt="">
-            <div class="caption">
-              <h3>John Smith<br>
-                <small>Job Title</small> </h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste
-                saepe et quisquam nesciunt maxime.</p>
-              <ul class="list-inline">
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 text-center">
-          <div class="thumbnail"> <img class="img-responsive" src="https://placehold.it/750x450"
-
-              alt="">
-            <div class="caption">
-              <h3>John Smith<br>
-                <small>Job Title</small> </h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste
-                saepe et quisquam nesciunt maxime.</p>
-              <ul class="list-inline">
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 text-center">
-          <div class="thumbnail"> <img class="img-responsive" src="https://placehold.it/750x450"
-
-              alt="">
-            <div class="caption">
-              <h3>John Smith<br>
-                <small>Job Title</small> </h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste
-                saepe et quisquam nesciunt maxime.</p>
-              <ul class="list-inline">
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-                <li> <br>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- /.row -->
-      <!-- Our Customers -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h2 class="page-header">Our Customers</h2>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6"> <img class="img-responsive customer-img"
-
-            src="https://placehold.it/500x300" alt=""> </div>
-        <div class="col-md-2 col-sm-4 col-xs-6"> <img class="img-responsive customer-img"
-
-            src="https://placehold.it/500x300" alt=""> </div>
-        <div class="col-md-2 col-sm-4 col-xs-6"> <img class="img-responsive customer-img"
-
-            src="https://placehold.it/500x300" alt=""> </div>
-        <div class="col-md-2 col-sm-4 col-xs-6"> <img class="img-responsive customer-img"
-
-            src="https://placehold.it/500x300" alt=""> </div>
-        <div class="col-md-2 col-sm-4 col-xs-6"> <img class="img-responsive customer-img"
-
-            src="https://placehold.it/500x300" alt=""> </div>
-        <div class="col-md-2 col-sm-4 col-xs-6"> <img class="img-responsive customer-img"
-
-            src="https://placehold.it/500x300" alt=""> </div>
-      </div>
       <!-- /.row -->
       <hr>
       <!-- Footer -->
@@ -265,6 +115,5 @@
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
-    
   </body>
 </html>
