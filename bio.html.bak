@@ -26,34 +26,33 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li> <a href="bio.html">Bio</a> </li>
-            <li> <a href="services.html">Papers</a> </li>
-            <li> <a href="contact.html">Models</a> </li>
+            <li> <a href="index.html">Papers</a> </li>
+            <li> <a href="index.html">Models</a> </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach
                 <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li> <a href="portfolio-1-col.html">Nuffield Placements 2017</a>
-                </li>
-                <li> <a href="portfolio-2-col.html">2 Column Portfolio</a> </li>
-                <li> <a href="portfolio-3-col.html">3 Column Portfolio</a> </li>
-                <li> <a href="portfolio-4-col.html">4 Column Portfolio</a> </li>
-                <li> <a href="portfolio-item.html">Single Portfolio Item</a> </li>
+                <li> <a href="index.html">Nuffield Placements 2017</a> </li>
+                <li> <a href="index.html">2 Column Portfolio</a> </li>
+                <li> <a href="index.html">3 Column Portfolio</a> </li>
+                <li> <a href="index.html">4 Column Portfolio</a> </li>
+                <li> <a href="index.html">Single Portfolio Item</a> </li>
               </ul>
             </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects
                 <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li> <a href="blog-home-1.html">Project 1</a> </li>
-                <li> <a href="blog-home-2.html">Project 2</a> </li>
-                <li> <a href="blog-post.html">Blog Post</a> </li>
+                <li> <a href="index.html">Project 1</a> </li>
+                <li> <a href="index.html">Project 2</a> </li>
+                <li> <a href="index.html">Blog Post</a> </li>
               </ul>
             </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other
                 Pages <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li> <a href="full-width.html">Full Width Page</a> </li>
-                <li> <a href="sidebar.html">Sidebar Page</a> </li>
-                <li> <a href="faq.html">FAQ</a> </li>
-                <li> <a href="404.html">404</a> </li>
+                <li> <a href="index.html">Full Width Page</a> </li>
+                <li> <a href="index.html">Sidebar Page</a> </li>
+                <li> <a href="index.html">FAQ</a> </li>
+                <li> <a href="index.html">404</a> </li>
               </ul>
             </li>
           </ul>
@@ -114,5 +113,6 @@
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    
   </body>
 </html>
