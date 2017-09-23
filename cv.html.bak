@@ -80,13 +80,13 @@
       <div class="row">
         <div class="col-lg-12">
           <ul id="myTab" class="nav nav-tabs nav-justified">
-            <li class="active"><a href="#service-one" data-toggle="tab"><i class="glyphicon glyphicon-file"></i>
+            <li class="active"><a href="#service-one" data-toggle="tab"><i class="glyphicon glyphicon-briefcase"></i>
                 Employment</a> </li>
-            <li class=""><a href="#service-two" data-toggle="tab"><i class="glyphicon glyphicon-plane"></i>
+            <li class=""><a href="#service-two" data-toggle="tab"><i class="glyphicon glyphicon-education"></i>
                 Education</a> </li>
-            <li class=""><a href="#service-three" data-toggle="tab"><i class="glyphicon glyphicon-book"></i>
+            <li class=""><a href="#service-three" data-toggle="tab"><i class="glyphicon glyphicon-bookmark"></i>
                 Fellowships</a> </li>
-            <li class=""><a href="#service-four" data-toggle="tab"><i class="glyphicon glyphicon-education"></i>
+            <li class=""><a href="#service-four" data-toggle="tab"><i class="glyphicon glyphicon-lamp"></i>
                 Skills</a> </li>
           </ul>
           <div id="myTabContent" class="tab-content">
