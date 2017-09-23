@@ -26,7 +26,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li> <a href="cv.html">CV</a> </li>
-            <li> <a href="index.html">Papers</a> </li>
+            <li> <a href="papers.html">Papers</a> </li>
             <li> <a href="index.html">Models</a> </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach
                 <b class="caret"></b></a>
@@ -103,10 +103,10 @@
             </div>
             <div class="tab-pane fade" id="service-two">
               <h4>Education</h4>
-              <h5>Aston University, United Kingdom	</h5>
+              <h5><b>Aston University, United Kingdom	</b></h5>
               <p>• Postgraduate Diploma in Learning & Teaching in Higher Education - Ongoing	2017
               <p>• Postgraduate Certificate in Learning & Teaching in Higher Education - Distinction	2016
-              <h5>University of Coimbra, Portugal	</h5>
+              <h5><b>University of Coimbra, Portugal	</b></h5>
               <p>• Industrial PhD in Electrical Engineering - Summa Cum Laude 	2010 – 2014
               <p>• BEng+MEng in Electrical Engineering with specialisation in Telecommunications GPA 19/20 (annual admission: 100 students)	2004 – 2009
 
