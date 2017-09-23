@@ -152,22 +152,8 @@
             </div>
             <div class="tab-pane fade" id="service-three">
               <h4>Book Chapters</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae
-                repudiandae fugiat illo cupiditate excepturi esse officiis
-                consectetur, laudantium qui voluptatem. Ad necessitatibus velit,
-                accusantium expedita debitis impedit rerum totam id. Lorem ipsum
-                dolor sit amet, consectetur adipisicing elit. Natus quibusdam
-                recusandae illum, nesciunt, architecto, saepe facere, voluptas
-                eum incidunt dolores magni itaque autem neque velit in. At quia
-                quaerat asperiores.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae
-                repudiandae fugiat illo cupiditate excepturi esse officiis
-                consectetur, laudantium qui voluptatem. Ad necessitatibus velit,
-                accusantium expedita debitis impedit rerum totam id. Lorem ipsum
-                dolor sit amet, consectetur adipisicing elit. Natus quibusdam
-                recusandae illum, nesciunt, architecto, saepe facere, voluptas
-                eum incidunt dolores magni itaque autem neque velit in. At quia
-                quaerat asperiores.</p>
+              <p>•	F. Ferreira, and A. Ellis, “Spatial multiplexing: modelling,” in “The Potential for Networks with Capacities Exceeding the Nonlinear-Shannon Limit,” to be published.
+							<p>•	F. Ferreira, D. Fonseca, and H. Silva, “Optical Fiber Transmission Systems Based on Mode-Division Multiplexing,” Scholars Press, 2014.
             </div>
             <div class="tab-pane fade" id="service-four">
               <h4>PhD Thesis</h4>
