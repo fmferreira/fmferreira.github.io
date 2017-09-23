@@ -20,9 +20,7 @@
 
             data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
             <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
-            <span class="icon-bar"></span> <span class="icon-bar"></span>&nbsp;</button><a
-
-            class="navbar-brand" href="index.html">Filipe M. Ferreira</a> </div>
+            <span class="icon-bar"></span> <span class="icon-bar"></span>&nbsp;</button><a class="navbar-brand" href="index.html">Filipe M. Ferreira</a> </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
@@ -66,7 +64,7 @@
       <!-- Page Heading/Breadcrumbs -->
       <div class="row">
         <div class="col-lg-12">
-          <h1 class="page-header">Bio </h1>
+          <h1 class="page-header">Models </h1>
           <ol class="breadcrumb">
             <li><a href="index.html">Home</a> </li>
             <li class="active">Models</li>
@@ -77,6 +75,7 @@
       <!-- Intro Content -->
       <div class="row">
         <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/fiber_XT_model.png"
+
             style="max-width:100%" alt=""> </div>
         <div class="col-md-6">
           <h2>Semi-Analytical Modelling of Linear Mode Coupling in Few-Mode
