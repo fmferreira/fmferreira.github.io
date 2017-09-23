@@ -62,7 +62,7 @@
         <!-- /.navbar-collapse --> </div>
       <!-- /.container --> </nav>
     <!-- Header Carousel -->
-    <header id="myCarousel" class="carousel slide" style="height: 150px;">
+    <header id="myCarousel" class="carousel slide" style="height: 100px;">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"><br>
