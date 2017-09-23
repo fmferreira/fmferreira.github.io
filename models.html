@@ -74,26 +74,27 @@
       <!-- /.row -->
       <!-- Intro Content -->
       <div class="row">
-        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/bio.png"
+        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/fiber_XT_model.png"
 
             alt=""> </div>
         <div class="col-md-6">
-          <h2>Bio</h2>
-          <p>Filipe M. Ferreira received the PhD degree in electrical
-            engineering from the department of Electrical and Computer
-            Engineering, University of Coimbra, Portugal in 2014 for his work on
-            high capacity optical transmission systems based on mode division
-            multiplexing. He previously worked for the optical networks research
-            &amp; technology division of Coriant (former Nokia Siemens Networks)
-            as a Research Engineer. During that period, he led activities in the
-            EU-FP7 research project MODEGAP, including few-mode fibres nonlinear
-            modelling and profile design, advanced optical links design and
-            simulation. He is now a Research Fellow at Aston University leading
-            the development of new cost-reduced approaches to high capacity
-            optical networks under the EU-FP7 research project INSPACE.
-            Recently, he was awarded a Marie Curie Individual Fellowship to
-            carry out research on space division multiplexing at Aston
-            University...</p>
+          <h2>Semi-Analytical Modelling of Linear Mode Coupling in Few-Mode Fibers</h2>
+          Matlab scripts, source C-code, mex compiled C-code, and figure data points for the paper entitled “Semi-Analytical Analytical Modelling of Linear Mode Coupling in Few -Mode Fibers”.
+          <p>Folders:
+          <p>0_differential_equations_solver
+          <p>Matlab scripts based on the Symbolic Math Toolbox for the derivation of a semi-analytical solution to the differential equations describing linear mode coupling in few-mode fibres. Scripts available for 3, 4, 5 and 6 modes.
+          <p>1_C_code_for_high_precision_solution_of_polynomials
+          <p>C-code for the numerical evaluation of the 6-modes semi-analytical solutions obtained in 0_differential_equations_solver. Two versions: “highPrecRootFind_6M_doubleIO” uses always the same seed for the root finding section; “highPrecRootFind_6M_doubleIO_rand” uses a randomized seed for the root finding section.
+          <p>2_crosstalk_vs_radial_displacement
+          <p>Script for plotting typical fibre coupling coefficients and plotting of the crosstalk introduced by a single fibre displacement as a function of the radial displacement and averaged in the azimuth coordinate. 
+          <p>3_solutions_precision
+          <p>Script for the evaluation of the precision of the semi-analytical solutions proposed against Runge-Kutta-Fehlberg Method (RKF45) numerical solutions.
+          <p>98_poly_solvers_mex_files_compiled_for_R2014b_64bit
+          <p>Compiled mex C-code at 1_C_code_for_high_precision_solution_of_polynomials. Compiled for Mex Matlab R2014b 64bit.
+          <p>99_fibre_parameters
+          <p>Typical fibre parameters used in this dataset.
+          <p>100_figures_data_poins
+          <p>Excel files containing the data points in the figures presented in the paper.
         </div>
       </div>
       <!-- /.row -->
@@ -113,6 +114,5 @@
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
-    
   </body>
 </html>
