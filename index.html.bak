@@ -62,7 +62,7 @@
         <!-- /.navbar-collapse --> </div>
       <!-- /.container --> </nav>
     <!-- Header Carousel -->
-    <header id="myCarousel" class="carousel slide">
+    <header id="myCarousel" class="carousel slide" style="height: 150px;">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"><br>
@@ -121,8 +121,8 @@
                 period, he led activities in the EU-FP7 research project
                 MODEGAP, including few-mode fibres nonlinear modelling and
                 profile design, advanced optical links design and simulation. He
-                is now a Research Fellow at Aston University leading the
-                development of new cost-reduced approaches to high capacity
+                is now a Research Fellow at Aston University leading
+                the development of new cost-reduced approaches to high capacity
                 optical networks under the EU-FP7 research project INSPACE.
                 Recently, he was awarded a Marie Curie Individual Fellowship to
                 carry out research on space division multiplexing at Aston
