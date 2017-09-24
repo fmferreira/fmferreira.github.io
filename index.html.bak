@@ -11,7 +11,8 @@
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   </head>
-  <body> <!-- Navigation -->
+  <body>
+    <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -30,7 +31,8 @@
             <li> <a href="papers.html">Papers</a> </li>
             <li> <a href="models.html">Models</a> </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach
-                </a> <ul class="dropdown-menu">
+                <b class="caret"></b></a>
+              <ul class="dropdown-menu">
                 <li> <a href="portfolio-1-col.html">Nuffield Placements 2017</a>
                 </li>
                 <li> <a href="index.html">2 Column Portfolio</a> </li>
@@ -40,14 +42,15 @@
               </ul>
             </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects
-                </a> <ul class="dropdown-menu">
+                <b class="caret"></b></a>
+              <ul class="dropdown-menu">
                 <li> <a href="index.html">Project 1</a> </li>
                 <li> <a href="index.html">Project 2</a> </li>
                 <li> <a href="index.html">Blog Post</a> </li>
               </ul>
             </li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other
-                Pages </a>
+                Pages <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li> <a href="index.html">Full Width Page</a> </li>
                 <li> <a href="index.html">Sidebar Page</a> </li>
@@ -73,14 +76,17 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
         <div class="item active">
+          <div class="fill" style="background-image:url('https://filipemferreira.com/images/figure_fibre_model.png');"></div>
           <div class="carousel-caption">
             <!-- <h2>First caption</h2>--> </div>
         </div>
         <div class="item">
+          <div class="fill" style="background-image:url('https://filipemferreira.com/images/figure2.png');"></div>
           <div class="carousel-caption">
             <!-- <h2>Second caption</h2>--> </div>
         </div>
         <div class="item">
+          <div class="fill" style="background-image:url('https://filipemferreira.com/images/Fig_precision.png');"></div>
           <div class="carousel-caption">
             <!-- <h2>Third caption comes here</h2>--> </div>
         </div>
@@ -107,8 +113,10 @@
               <p>Marie Skłodowska-Curie Fellow </p>
               <p>Aston Institute of Photonic Technologies </p>
               <p>Aston University </p>
-              <p> <abbr title="Phone">P</abbr>: +44 7413 595951</p>
-              <p> <abbr title="Email">E</abbr>: <a href="mailto:f.ferreira@aston.ac.uk">f.ferreira@aston.ac.uk</a>
+              <p> <i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: +44
+                7413 595951</p>
+              <p> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>:
+                <a href="mailto:f.ferreira@aston.ac.uk">f.ferreira@aston.ac.uk</a>
               </p>
             </div>
           </div>
