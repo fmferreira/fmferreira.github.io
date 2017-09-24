@@ -30,7 +30,6 @@
             <li> <a href="bio.html">Bio</a> </li>
             <li> <a href="papers.html">Papers</a> </li>
             <li> <a href="models.html">Models</a> </li>
-            
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach
                 <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -68,26 +67,24 @@
       <!-- /.row -->
       <!-- Intro Content -->
       <div class="row">
-        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/bio.png"
-
-            alt=""> </div>
+        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/bio.png" alt=""> </div>
         <div class="col-md-6">
           <h2>Bio</h2>
-          <p>Filipe M. Ferreira received the PhD degree in electrical
-            engineering from the department of Electrical and Computer
-            Engineering, University of Coimbra, Portugal in 2014 for his work on
-            high capacity optical transmission systems based on mode division
-            multiplexing. He previously worked for the optical networks research
-            &amp; technology division of Coriant (former Nokia Siemens Networks)
-            as a Research Engineer. During that period, he led activities in the
-            EU-FP7 research project MODEGAP, including few-mode fibres nonlinear
-            modelling and profile design, advanced optical links design and
-            simulation. He is now a Research Fellow at Aston University leading
-            the development of new cost-reduced approaches to high capacity
-            optical networks under the EU-FP7 research project INSPACE.
-            Recently, he was awarded a Marie Curie Individual Fellowship to
-            carry out research on space division multiplexing at Aston
-            University...</p>
+          <p>Filipe M. Ferreira received the PhD degree in
+            electrical engineering from the department of Electrical and
+            Computer Engineering, University of Coimbra, Portugal in 2014 for
+            his work on high capacity optical transmission systems based on mode
+            division multiplexing. He previously worked for the optical networks
+            research &amp; technology division of Coriant (former Nokia Siemens
+            Networks) as a Research Engineer. During that period, he led
+            activities in the EU-FP7 research project MODEGAP, including
+            few-mode fibres nonlinear modelling and profile design, advanced
+            optical links design and simulation. He is now a Research Fellow at
+            Aston University leading the development of new cost-reduced
+            approaches to high capacity optical networks under the EU-FP7
+            research project INSPACE. Recently, he was awarded a Marie Curie
+            Individual Fellowship to carry out research on space division
+            multiplexing at Aston University...</p>
         </div>
       </div>
       <!-- /.row -->
