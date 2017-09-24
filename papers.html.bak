@@ -29,7 +29,7 @@
             <li> <a href="cv.html">CV</a> </li>
             <li> <a href="bio.html">Bio</a> </li>
             <li> <a href="papers.html">Papers</a> </li>
-            <li> <a href="models.html">Models</a> </li>
+            <li> <a href="models.html">Models</a> </li>            
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outreach
                 <b class="caret"></b></a>
               <ul class="dropdown-menu">
@@ -312,10 +312,10 @@
                 generation for hybrid access networks using a single external
                 modulator,” in Proc Symp. on Enabling Opt. Netw. (SEON), June
                 2010. </p>
-              <p>C44. F. Ferreira, P. Almeida, and H. Silva,
-                “Generation of 60 GHz RoF/SCM signals using upconversion and
-                centimeter-wave photonic devices,” in Proc Symp. on Enabling
-                Opt. Netw. (SEON), June 2009. </p>
+              <p>C44. F. Ferreira, P. Almeida, and H. Silva, “Generation of 60
+                GHz RoF/SCM signals using upconversion and centimeter-wave
+                photonic devices,” in Proc Symp. on Enabling Opt. Netw. (SEON),
+                June 2009. </p>
             </div>
             <div class="tab-pane fade" id="service-three">
               <h4>Book Chapters</h4>
