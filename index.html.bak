@@ -11,7 +11,8 @@
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   </head>
-  <body> <!-- Navigation -->
+  <body>
+    <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -118,12 +119,8 @@
             <div class="panel-heading">
               <h4> Location </h4>
             </div>
-            <div class="panel-body"> 
-              <iframe src="https://www.google.com/maps/embed?pb=%211m16%211m12%211m3%211d2429.5835999372644%212d-1.890265684736034%213d52.48667469645165%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%212m1%211saston+university%215e0%213m2%211sen%212suk%214v1506205786943"
-
-                style="border:0" allowfullscreen="" frameborder="0" height="300"
-
-                width="400"></iframe> 
+            <div class="panel-body">  
+            
             </div>
           </div>
         </div>
@@ -132,7 +129,7 @@
             <div class="panel-heading">
               <h4> News </h4>
             </div>
-            <div class="panel-body">
+            <div class="panel-body" style="max-height: 100;">
               <p>ECOC 2017</p>
               <p>Nuffield</p>
             </div>
