@@ -10,7 +10,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-  </head> 
+  </head>
   <body> <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
@@ -57,10 +57,7 @@
       <div class="row">
         <div class="col-lg-12">
           <h1 class="page-header">Contact</h1>
-          <ol class="breadcrumb">
-            <li><a href="index.html">Home</a> </li>
-            <li class="active">Contact</li>
-          </ol>
+
         </div>
         <div class="col-md-6">
           <div class="panel panel-default">
