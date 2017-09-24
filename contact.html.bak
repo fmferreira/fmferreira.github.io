@@ -59,24 +59,21 @@
           <h1 class="page-header">Contact</h1>
         </div>
         <div class="col-md-6">
-            <div class="panel-body" style="height: 350px;"> <iframe src="https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d1214.783870775059%212d-1.8904159%213d52.4869618%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x4870bc9b02fd88af%3A0xc866fae7de9ec93%212sAston+Triangle%2C+Birmingham+B4+7ET%215e0%213m2%211sen%212suk%214v1506252119696"
+          <div class="panel-body" style="height: 350px;"> <iframe src="https://www.google.com/maps/embed?pb=%211m14%211m8%211m3%211d1214.783870775059%212d-1.8904159%213d52.4869618%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x4870bc9b02fd88af%3A0xc866fae7de9ec93%212sAston+Triangle%2C+Birmingham+B4+7ET%215e0%213m2%211sen%212suk%214v1506252119696"
 
-                style="border:0" allowfullscreen="" frameborder="0" height="320"
-
-                width="100%"></iframe> </div>
+              style="border:0" allowfullscreen="" frameborder="0" height="320" width="100%"></iframe>
+          </div>
         </div>
         <div class="col-md-6">
-          <div class="panel panel-default">
-              <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE </p>
-              <p>Marie Skłodowska-Curie Fellow </p>
-              <p>Aston Institute of Photonic Technologies </p>
-              <p>Aston University </p>
-              <p> <i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: +44
-                7413 595951</p>
-              <p> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>:
-                <a href="mailto:f.ferreira@aston.ac.uk">f.ferreira@aston.ac.uk</a>
-              </p>
-          </div>
+            <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE </p>
+            <p>Marie Skłodowska-Curie Fellow </p>
+            <p>Aston Institute of Photonic Technologies </p>
+            <p>Aston University </p>
+            <p> <i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: +44
+              7413 595951</p>
+            <p> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>:
+              <a href="mailto:f.ferreira@aston.ac.uk">f.ferreira@aston.ac.uk</a>
+            </p>
         </div>
       </div>
       <!-- /.row -->
