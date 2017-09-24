@@ -61,7 +61,7 @@
           </ul>
         </div>
         <!-- /.navbar-collapse --> </div>
-      <!-- /.container --> </nav>
+      <!-- /.container --> </nav>    
     <!-- Header Carousel -->
     <header id="myCarousel" class="carousel slide" style="height: 100px;">
       <!-- Indicators -->
@@ -103,22 +103,31 @@
         <div class="col-lg-12">
           <h1 class="page-header"> Home </h1>
         </div>
-        <!-- Intro Content -->
-        <div class="row">
-          <div class="col-md-6"> 
-            <p><b>Contact Information</b> 
-            <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE
-            <p>Marie Skłodowska-Curie Fellow
-            <p>Aston Institute of Photonic Technologies
-            <p>Aston University
-            <p>+44 121 204 5213
-          </div>
-          <div class="col-md-6">
-            <p><b>UPDATES</b> 
-            <p>ECOC 2017</p>
-            <p>Nuffield</p>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4><i class="fa fa-fw fa-check"></i> Contact Information </h4>
+            </div>
+            <div class="panel-body">
+              <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE </p>
+              <p>Marie Skłodowska-Curie Fellow </p>
+              <p>Aston Institute of Photonic Technologies </p>
+              <p>Aston University </p>
+              <p>+44 121 204 5213 </p>
+            </div>
           </div>
         </div>
+        <div class="col-md-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4><i class="fa fa-fw fa-check"></i> News </h4>
+            </div>
+            <div class="panel-body">
+              <p>ECOC 2017</p>
+            	<p>Nuffield</p>
+            </div>
+          </div>
+        </div>       
       </div>
       <div class="container">
         <!-- Footer -->
