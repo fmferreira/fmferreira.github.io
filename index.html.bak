@@ -16,6 +16,7 @@
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header"> <button type="button" class="navbar-toggle"
+
             data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
             <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
             <span class="icon-bar"></span> <span class="icon-bar"></span>&nbsp;</button>
@@ -84,6 +85,28 @@
 
         href="#myCarousel" data-slide="next"> <span class="icon-next"></span> </a>
     </header>
+    <!-- Intro Content -->
+      <div class="row">
+        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/bio.png" alt=""> </div>
+        <div class="col-md-6">
+          <h2>Bio</h2>
+          <p>Filipe M. Ferreira received the PhD degree in
+            electrical engineering from the department of Electrical and
+            Computer Engineering, University of Coimbra, Portugal in 2014 for
+            his work on high capacity optical transmission systems based on mode
+            division multiplexing. He previously worked for the optical networks
+            research &amp; technology division of Coriant (former Nokia Siemens
+            Networks) as a Research Engineer. During that period, he led
+            activities in the EU-FP7 research project MODEGAP, including
+            few-mode fibres nonlinear modelling and profile design, advanced
+            optical links design and simulation. He is now a Research Fellow at
+            Aston University leading the development of new cost-reduced
+            approaches to high capacity optical networks under the EU-FP7
+            research project INSPACE. Recently, he was awarded a Marie Curie
+            Individual Fellowship to carry out research on space division
+            multiplexing at Aston University...</p>
+        </div>
+      </div>
     <!-- Page Content -->
     <div class="container">
       <!-- Marketing Icons Section -->
@@ -97,13 +120,15 @@
               <h4> Contact Information </h4>
             </div>
             <div class="panel-body" style="height: 350px;">
-              <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE <br>
-              Marie Skłodowska-Curie Fellow <br>
-              Aston Institute of Photonic Technologies <br>
-              Aston University <br>
-              <i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: +44 7413 595951<br>
-              <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:f.ferreira@aston.ac.uk">f.ferreira@aston.ac.uk</a>
-              <br>
+              <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE </p>
+              <p>Marie Skłodowska-Curie Fellow </p>
+              <p>Aston Institute of Photonic Technologies </p>
+              <p>Aston University </p>
+              <p> <i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: +44
+                7413 595951</p>
+              <p> <i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>:
+                <a href="mailto:f.ferreira@aston.ac.uk">f.ferreira@aston.ac.uk</a>
+              </p>
             </div>
           </div>
         </div>
