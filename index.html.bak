@@ -87,16 +87,15 @@
     </header>
     <!-- Page Content -->
     <div class="container">
-      <!-- Marketing Icons Section -->
+        <!-- Intro Content -->
       <div class="row">
         <div class="col-lg-12">
           <h1 class="page-header"> Home </h1>
         </div>
-        <!-- Intro Content -->
-        <div class="row">
-          <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/bio.png"
 
-              alt=""> </div>
+          <div class="col-md-6"> 
+            <img class="img-responsive" src="https://filipemferreira.com/images/bio.png"    alt=""> 
+          </div>
           <div class="col-md-6">
             <h2>Bio</h2>
             <p>Filipe M. Ferreira received the PhD degree in electrical
@@ -115,7 +114,6 @@
               Marie Curie Individual Fellowship to carry out research on space
               division multiplexing at Aston University...</p>
           </div>
-        </div>          
       </div>
       <!-- /.row -->
       <hr>
