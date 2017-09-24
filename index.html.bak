@@ -11,8 +11,7 @@
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
   </head>
-  <body>
-    <!-- Navigation -->
+  <body> <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -103,7 +102,7 @@
             <div class="panel-heading">
               <h4> Contact Information </h4>
             </div>
-            <div class="panel-body" style="height: 500px;">
+            <div class="panel-body" style="height: 400px;">
               <p>Dr. Filipe Marques Ferreira, MSc PhD FHEA MIEEE </p>
               <p>Marie Skłodowska-Curie Fellow </p>
               <p>Aston Institute of Photonic Technologies </p>
@@ -114,12 +113,12 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4" style="height: 500px;">
+        <div class="col-md-4" >
           <div class="panel panel-default">
             <div class="panel-heading">
               <h4> Location </h4>
             </div>
-            <div class="panel-body">  
+            <div class="panel-body" style="height: 400px;">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1214.7838721134108!2d-1.8904158883729212!3d52.486961751540505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc9b02fd88af%3A0xc866fae7de9ec93!2sAston+Triangle%2C+Birmingham+B4+7ET!5e0!3m2!1sen!2suk!4v1506247193009" width="320" height="320" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
           </div>
@@ -129,7 +128,7 @@
             <div class="panel-heading">
               <h4> News </h4>
             </div>
-            <div class="panel-body" style="height: 500px;">
+            <div class="panel-body" style="height: 400px;">
               <p>ECOC 2017</p>
               <p>Nuffield</p>
             </div>
