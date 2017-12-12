@@ -64,22 +64,22 @@
       <!-- /.row -->
       <!-- Intro Content -->
       <div class="row">
-        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/fiber_XT_model.png"
+        <div class="col-md-6"> <img class="img-responsive" src="https://filipemferreira.com/images/hspace_illustration.png"
 
             style="max-width:100%" alt=""> </div>
         <div class="col-md-6">
           <h2>Summary of the context and overall objectives of the project</h2>
           <p>Our information society relies to an unprecedented extent on
-            broadband communication solutions such as high-speed Internet
-            access, mobile voice and data services, multimedia broadcast
-            systems, etc. To fulfil the steadily growing volume and bandwidth
-            demand of those data services while simultaneously reducing the cost
-            per transported information bit, communication systems have been
-            continuously improved in terms of reach and aggregate transport
-            capacity. However, it is now recognised that communication systems
-            are rapidly approaching the fundamental information capacity of
-            current technology, a trend with potential negative impact on the
-            economy and social progress. </p>
+            broadband communication solutions such as high-speed
+            Internet access, mobile voice and data services, multimedia
+            broadcast systems, etc. To fulfil the steadily growing volume and
+            bandwidth demand of those data services while simultaneously
+            reducing the cost per transported information bit, communication
+            systems have been continuously improved in terms of reach and
+            aggregate transport capacity. However, it is now recognised that
+            communication systems are rapidly approaching the fundamental
+            information capacity of current technology, a trend with potential
+            negative impact on the economy and social progress. </p>
           <p>HSPACE project targeted the development of advanced
             spatial-division-multiplexed (SDM) systems to unlock the capacity of
             future information systems by enabling the transmission of spatial
@@ -117,8 +117,7 @@
             Fellow has extensively developed his communication, teamwork,
             networking and initiative skills as described in the following:</p>
           <p>&nbsp;</p>
-          <div style="margin-left: 2em;"> 
-            <b>Communication</b>
+          <div style="margin-left: 2em;"> <b>Communication</b>
             <li>Authored 18 publications, 9 of which as 1st author, including
               one book chapter on the Springer Series in Optical Sciences and
               two contributions to high impact journals such ah: Journal of
@@ -177,67 +176,64 @@
           </div>
           <h2>Progress beyond the state of the art</h2>
           <p>Dr. Ferreira major achievements during HSPACE were in the area of
-            Nonlinear Compensation Methods, Nonlinear Capacity of
-            Few-Mode Fibre Links, Designing of Few-Mode Fibre Links and
+            Nonlinear Compensation Methods, Nonlinear Capacity of Few-Mode Fibre
+            Links, Designing of Few-Mode Fibre Links and
             Spatial-Mode-Shift-Keying, as I detail below:</p>
-          <div style="margin-left: 2em;">
-            <ol type="A">
-              <b>Nonlinear Compensation Methods</b>
-              <li> Pioneered a novel in-line NLC method based on all-optical
-                optical coherent superposition that takes no additional
-                bandwidth of the network elements (fully backward
-                compatibility), and limits PMD accumulation to one span (~80km).
-                This method can deliver multiple 3dB SNR boosts by exploiting
-                the network’s dark-fibre. A novel double-stage interferometer
-                enables the coherent superposition. Dr. Ferreira is the lead
-                inventor on the twin-fibres GB patent application (no.
-                1605120.3). The patent includes an experimental demonstration of
-                a twin-fibres link with 20km using a 10Gbps XFP transceiver
-                designed and implemented by me, a 2.3dB SNR boost was obtained.
-              </li>
-              <li> Extended the digital back-propagation (DBP) method to
-                mode-multiplexed systems. A DBP implementation based on Manakov
-                equations provides significant gain for a linear mode coupling
-                higher than 20dB/100m and for a differential mode delay equal or
-                lower than 0.01ps/km, which is not a likely scenario. Thus, DBP
-                for few-mode fibres requires mode coupling tracking like SMF
-                systems impacted by PMD. (F. Ferreira, et al., ECOC 2017, p.
-                W.1.D.3).
-                <p>&nbsp;</p>
-                <b>Nonlinear Capacity of Few-Mode Fibre Links</b> </li>
-              <li> First to estimate the coupling strength required for the
-                suppression of nonlinear distortion in few-mode fibres below
-                that of an isolated mode propagating without intermodal
-                nonlinear distortion or intermodal coupling. A linear mode
-                coupling above 20dB/100m is required (F. Ferreira, et al., OFC
-                2016, p. Tu2E.3), which is possible in practice following the
-                appropriate fibre design rules, as derived in F. Ferreira, et
-                al., IEEE/OSA JLT, vol. 32, no. 3, pp. 353–360, 2014.
-                <p>&nbsp;</p>
-                <b>Designing of Few-Mode Fibre Links</b> </li>
-              <li> First to identify the analytical relation between the group
-                delay spread in few-mode fibres with the real-world fibres
-                operating in the intermediate regime, this is operating neither
-                in the weak nor the strong coupling regime. The knowledge of
-                group delay spread is critical to dimension the receiver memory
-                and transmission reach, and to estimate the nonlinear limited
-                capacity.
-                <p>&nbsp;</p>
-                <b>Spatial-Mode-Shift-Keying</b> </li>
-              <li> Development of a proof-of-concept experiment to generate
-                spatial-mode-shift-keying signals using one single
-                highly-efficient all-dielectric metasurface that has the unique
-                ability of simultaneous converting different input polarizations
-                of an incoming LP01 signal into different orthogonal LP modes.
-                The patent includes an experimental demonstration of a
-                conventional polarization multiplexed (or shift-keyed) signal
-                being converted into a mode multiplexed (or shift-keyed) signal
-                (LP21 and LP11) and back into polarization multiplexed signal, a
-                100G DP-QPSK transponder was used. The experiment was designed
-                and executed by me starting from a non-connectorised metasurface
-                sample which required a strict free-space arrangement. </li>
-            </ol>
-          </div>
+          <ol type="A">
+            <b>Nonlinear Compensation Methods</b>
+            <li> Pioneered a novel in-line NLC method based on all-optical
+              optical coherent superposition that takes no additional bandwidth
+              of the network elements (fully backward compatibility), and limits
+              PMD accumulation to one span (~80km). This method can deliver
+              multiple 3dB SNR boosts by exploiting the network’s dark-fibre. A
+              novel double-stage interferometer enables the coherent
+              superposition. Dr. Ferreira is the lead inventor on the
+              twin-fibres GB patent application (no. 1605120.3). The patent
+              includes an experimental demonstration of a twin-fibres link with
+              20km using a 10Gbps XFP transceiver designed and implemented by
+              me, a 2.3dB SNR boost was obtained. </li>
+            <li> Extended the digital back-propagation (DBP) method to
+              mode-multiplexed systems. A DBP implementation based on Manakov
+              equations provides significant gain for a linear mode coupling
+              higher than 20dB/100m and for a differential mode delay equal or
+              lower than 0.01ps/km, which is not a likely scenario. Thus, DBP
+              for few-mode fibres requires mode coupling tracking like SMF
+              systems impacted by PMD. (F. Ferreira, et al., ECOC 2017, p.
+              W.1.D.3).
+              <p>&nbsp;</p>
+              <b>Nonlinear Capacity of Few-Mode Fibre Links</b> </li>
+            <li> First to estimate the coupling strength required for the
+              suppression of nonlinear distortion in few-mode fibres below that
+              of an isolated mode propagating without intermodal nonlinear
+              distortion or intermodal coupling. A linear mode coupling above
+              20dB/100m is required (F. Ferreira, et al., OFC 2016, p. Tu2E.3),
+              which is possible in practice following the appropriate fibre
+              design rules, as derived in F. Ferreira, et al., IEEE/OSA JLT,
+              vol. 32, no. 3, pp. 353–360, 2014.
+              <p>&nbsp;</p>
+              <b>Designing of Few-Mode Fibre Links</b> </li>
+            <li> First to identify the analytical relation between the group
+              delay spread in few-mode fibres with the real-world fibres
+              operating in the intermediate regime, this is operating neither in
+              the weak nor the strong coupling regime. The knowledge of group
+              delay spread is critical to dimension the receiver memory and
+              transmission reach, and to estimate the nonlinear limited
+              capacity.
+              <p>&nbsp;</p>
+              <b>Spatial-Mode-Shift-Keying</b> </li>
+            <li> Development of a proof-of-concept experiment to generate
+              spatial-mode-shift-keying signals using one single
+              highly-efficient all-dielectric metasurface that has the unique
+              ability of simultaneous converting different input polarizations
+              of an incoming LP01 signal into different orthogonal LP modes. The
+              patent includes an experimental demonstration of a conventional
+              polarization multiplexed (or shift-keyed) signal being converted
+              into a mode multiplexed (or shift-keyed) signal (LP21 and LP11)
+              and back into polarization multiplexed signal, a 100G DP-QPSK
+              transponder was used. The experiment was designed and executed by
+              me starting from a non-connectorised metasurface sample which
+              required a strict free-space arrangement. </li>
+          </ol>
         </div>
       </div>
       <!-- /.row -->
